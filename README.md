@@ -1,5 +1,4 @@
 # Spark-Data-Analytics-Playground
-# Spark Data Analytics Playground
 
 ![Spark Logo](spark_logo.png)
 
